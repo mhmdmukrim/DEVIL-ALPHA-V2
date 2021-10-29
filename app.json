@@ -1,7 +1,7 @@
 {
     "name": "DEVIL-ALPHA",
     "description": "DEVIL-ALPHA is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
-    "logo": "https://ibb.co/312nsvf.jpg",
+    "logo": "https://i.ibb.co/8MqHBbz/IMG-20211029-WA0063.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
     "repository": "",
     "website":   "https://chat.whatsapp.com/JZ2v7BKXJJdBSTpREta0KW",
@@ -92,7 +92,7 @@
         "ALIVE_LOGO": {
             "description": "Alive message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://i.ibb.co/8MqHBbz/IMG-20211029-WA0063.jpg"
         },
         "WELCOME_LOGO": {
             "description": "Welcome message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
@@ -132,7 +132,7 @@
         "PANEL_EMOJI": {
             "description": "You can change panel emojis. (Make sure to split emojis with / )",
             "required": true,
-            "value": "📘/📖"
+            "value": "💕/😈"
         },
         "DEBUG": {
             "description": "If you do not know this. Give it up.",
@@ -142,7 +142,7 @@
         "MENU": {
             "description": "Customizeable commands list request command. Keep panel if you don't want to change.",
             "required": true,
-            "value": "panel"
+            "value": "devil"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
