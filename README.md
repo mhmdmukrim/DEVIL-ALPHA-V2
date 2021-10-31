@@ -9,7 +9,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://tenor.com/view/evil-laugh-evil-plan-evil-smile-creepy-gif-16690925.gif" alt="GIF" width="300" height="300"/>
+<img src="https://tenor.com/view/evil-laugh-evil-plan-evil-smile-creepy-gif-16690925.gif" alt="GIF" width="550" height="400"/>
 </p>
  <p align="center">
 <a href="#"><img title="MHMDMUKRIM" src="https://img.shields.io/badge/MHMDMUKRIM-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
