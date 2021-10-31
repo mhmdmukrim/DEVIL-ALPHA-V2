@@ -45,7 +45,6 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JZ2v7BKXJJdBSTpREta0KW)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MHMDMUKRIM&repo=PublicBot&theme=nightowl)](https://github.com/users/mhmdmukrim/projects/1)
   </div>
     
 ## Setup
