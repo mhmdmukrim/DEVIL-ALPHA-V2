@@ -42,7 +42,7 @@ Project created by <a href="https://github.com/mhmdmukrim">MHMDMUKRIM</a> to mak
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JZ2v7BKXJJdBSTpREta0KW)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BzQuBwrOG6K5oCRByz1Bvj)
   <div align="center">
        
   </div>
