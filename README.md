@@ -70,7 +70,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/mhmdmukrim/DEVIL-ALPHA-V2
-$ cd JulieMwol
+$ cd devilalpha
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
