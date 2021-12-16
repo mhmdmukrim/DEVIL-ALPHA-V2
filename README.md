@@ -80,7 +80,7 @@ $ node qr.js
 ```js
 SETUP
 $ git clone https://github.com/mhmdmukrim/DEVIL-ALPHA-V2
-$ cd DEVIL-ALPHA-V2
+$ cd devilalpha
 $ chmod +x *
 $ npm i
 $ node qr.js
